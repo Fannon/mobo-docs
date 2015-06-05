@@ -1,6 +1,5 @@
 {
     "title": "mobo documentation",
-    "gitbook": ">=2.0.0",
     "styles": {
         "website": "_style/website.css",
         "ebook": "style/ebook.css",
