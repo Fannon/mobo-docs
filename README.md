@@ -11,3 +11,7 @@ Mobo can also be used to batch-upload wiki pages in general and it is planned to
 
 Mobo is open source and cross platform.# Introduction
 
+## Tests
+```yaml
+{% include "git+https://github.com/Fannon/mobo/blob/master/examples/hardware-yaml/field/freetext.yaml" %}
+```
