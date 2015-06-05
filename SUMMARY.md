@@ -1,6 +1,6 @@
 # Summary
 
-* [Getting Started](getting-started.md)
+* [Getting Started](getting-started.MD)
 * [Mobo Modeling](Modeling/README.md)
     * [Manual](Modeling/manual.md)
     * [Tutorial](Modeling/hardware-tutorial.md)
