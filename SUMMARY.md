@@ -12,6 +12,7 @@
 * [Mobo Utilities]()
 * [Mobo Importing]()
 * [Attachments]()
+    * [Settings Schema]()
     * [Field Schema]()
     * [Model Schema]()
     * [Form Schema]()
